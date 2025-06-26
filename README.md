@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+#Responsive Landing Page
 A sleek and fully responsive landing page built with HTML, CSS, and JavaScript. This project showcases clean design principles, scroll-based interactivity, and smooth user experience for a fictional sports community: **Action Zone**.
 
 ---
